@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Keval Gandhi
 - 👀 I’m interested in Data, Cloud and web applications
 - 🌱 I’m currently learning Core Java, Adv. Python, React JS
-- 💞️ I’m looking to collaborate on Python, C++, C, SQl
+- 💞️ I’m looking to collaborate on Python, JS,
 - 📫 How to reach me ->
 
 <!---
